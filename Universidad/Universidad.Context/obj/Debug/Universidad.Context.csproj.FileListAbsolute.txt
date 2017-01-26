@@ -8,5 +8,7 @@ C:\Users\Clase\Documents\Visual Studio 2013\Projects\Final\Universidad\Universid
 C:\Users\Clase\Documents\Visual Studio 2013\Projects\Final\Universidad\Universidad.Context\bin\Debug\EntityFramework.xml
 C:\Users\Clase\Documents\Visual Studio 2013\Projects\Final\Universidad\Universidad.Context\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\Clase\Documents\Visual Studio 2013\Projects\Final\Universidad\Universidad.Context\obj\Debug\Universidad.Context.csprojResolveAssemblyReference.cache
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Final\Universidad\Universidad.Context\obj\Debug\Universidad.Context.Migrations.Proy.resources
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Final\Universidad\Universidad.Context\obj\Debug\Universidad.Context.csproj.GenerateResource.Cache
 C:\Users\Clase\Documents\Visual Studio 2013\Projects\Final\Universidad\Universidad.Context\obj\Debug\Universidad.Context.dll
 C:\Users\Clase\Documents\Visual Studio 2013\Projects\Final\Universidad\Universidad.Context\obj\Debug\Universidad.Context.pdb

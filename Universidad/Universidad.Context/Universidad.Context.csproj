@@ -51,6 +51,11 @@
     <Compile Include="EntitiesConfiguration\AlumnoConfiguration.cs" />
     <Compile Include="EntitiesConfiguration\EstadoCivilConfiguration.cs" />
     <Compile Include="EntitiesConfiguration\GeneroConfiguration.cs" />
+    <Compile Include="Migrations\201701260124345_Proy.cs" />
+    <Compile Include="Migrations\201701260124345_Proy.Designer.cs">
+      <DependentUpon>201701260124345_Proy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="UniversidadDbContext.cs" />
   </ItemGroup>
@@ -63,6 +68,11 @@
       <Project>{99d8bbe7-f6a3-48bf-9169-3caad2f0f690}</Project>
       <Name>Universidad.Entities</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201701260124345_Proy.resx">
+      <DependentUpon>201701260124345_Proy.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
