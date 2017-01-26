@@ -1,0 +1,5 @@
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Final\Universidad\Universidad.Entities\bin\Debug\Universidad.Entities.dll
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Final\Universidad\Universidad.Entities\bin\Debug\Universidad.Entities.pdb
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Final\Universidad\Universidad.Entities\obj\Debug\Universidad.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Final\Universidad\Universidad.Entities\obj\Debug\Universidad.Entities.dll
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Final\Universidad\Universidad.Entities\obj\Debug\Universidad.Entities.pdb
