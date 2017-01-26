@@ -20,14 +20,15 @@ namespace Universidad.Context
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
 
+
+
+            //modelBuilder.Configurations.Add(new AlumnoConfiguration());
+
+            //modelBuilder.Configurations.Add(new GeneroConfiguration());
+
+            //modelBuilder.Configurations.Add(new EstadoCivilConfiguration());
+
             base.OnModelCreating(modelBuilder);
-
-            modelBuilder.Configurations.Add(new AlumnoConfiguration());
-
-            modelBuilder.Configurations.Add(new GeneroConfiguration());
-
-            modelBuilder.Configurations.Add(new EstadoCivilConfiguration());
-
             
         }
     }
