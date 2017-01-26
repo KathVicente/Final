@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel;
 
 namespace Universidad.Entities
 {
@@ -13,6 +15,8 @@ namespace Universidad.Entities
             Alumnos = new List<Alumno>();
         }
         public int Id { get; set; }
+
+        [StringLength(50), DisplayName("Descripcion")]
 
         public String Descripcion { get; set; }
 
