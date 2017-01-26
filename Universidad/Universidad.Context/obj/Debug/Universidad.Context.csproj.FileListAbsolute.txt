@@ -1,0 +1,12 @@
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Final\Universidad\Universidad.Context\bin\Debug\Universidad.Context.dll.config
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Final\Universidad\Universidad.Context\bin\Debug\Universidad.Context.dll
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Final\Universidad\Universidad.Context\bin\Debug\Universidad.Context.pdb
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Final\Universidad\Universidad.Context\bin\Debug\EntityFramework.dll
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Final\Universidad\Universidad.Context\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Final\Universidad\Universidad.Context\bin\Debug\Universidad.Entities.dll
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Final\Universidad\Universidad.Context\bin\Debug\Universidad.Entities.pdb
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Final\Universidad\Universidad.Context\bin\Debug\EntityFramework.xml
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Final\Universidad\Universidad.Context\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Final\Universidad\Universidad.Context\obj\Debug\Universidad.Context.csprojResolveAssemblyReference.cache
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Final\Universidad\Universidad.Context\obj\Debug\Universidad.Context.dll
+C:\Users\Clase\Documents\Visual Studio 2013\Projects\Final\Universidad\Universidad.Context\obj\Debug\Universidad.Context.pdb
